@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\zac\desktop\basic\source.cpp(9): warning C4305: 'argument' : truncation from 'double' to 'float'
+c:\users\zac\desktop\basic\source.cpp(34): warning C4018: '<' : signed/unsigned mismatch
+c:\users\zac\desktop\basic\source.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+  bAsIc.vcxproj -> C:\Users\Zac\Desktop\bAsIc\Debug\bAsIc.exe
